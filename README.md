@@ -3,4 +3,4 @@ Build a project in which we play the game with the help of slider.It is built us
 
 Here is the link of my project :)
  👇
-Link : https://arsu225.github.io/My-Resume/
+Link : https://arsu225.github.io/Ping-Pong-Game/
